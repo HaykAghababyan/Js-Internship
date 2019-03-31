@@ -15,4 +15,5 @@ const insertionSort = arr => {
    }         
    return arr;
 }
-console.log(insertionSort([125,7,54,23,45,74,100,96,76]))
+ 
+insertionSort([125,7,54,23,45,74,100,96,76]);
